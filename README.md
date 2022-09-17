@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Development such as html , css,  Java Script , Php , Jquery and React 
 - 🌱 I’m currently learning Laravel framework
 - 📫 How to reach me 
-- mobile number:+972 569 623 530
-- Email: hlhwlymhmd@gmail.com
-- Facebook: https://www.facebook.com/profile.php?id=100009292432484
+- 📞mobile number:+972 569 623 530
+- 💻Email: hlhwlymhmd@gmail.com
+- 📱Facebook: https://www.facebook.com/profile.php?id=100009292432484
 
 
 
